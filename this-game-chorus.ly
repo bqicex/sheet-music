@@ -26,7 +26,7 @@
    g2. r8 fis8 |
    g8. e16~ e8 b'8~ b a a16 d8 b16~ |
    b2 a8. g16~ g8 d'8 |
-   b1 |
+   b1 \bar "||" |
   }
 }>>
   \layout {}
