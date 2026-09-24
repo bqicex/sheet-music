@@ -1,8 +1,6 @@
 \version "2.26.0"
 
 \header {
-  title = "Untitled"
-  composer = "Composer"
 }
 
 \score {
