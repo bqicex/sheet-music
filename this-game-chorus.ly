@@ -49,17 +49,17 @@
    \lyricsto "v1" {
    \override LyricText.Y-offset = #-1.0
    \override LyricHyphen.Y-offset = #-1.0
-  [yu hao da de yu 
-  hu wen sha yu
-  na tie li diao da yu]
+  [yu hao da de yü 
+  hu wen sha yü
+  na tie li diao da yü]
   \skip 1 \skip 1 \skip 1 \skip 1 \skip 1 \skip 1 \skip 1 \skip 1 \skip 1 \skip 1
   \skip 1 \skip 1 \skip 1 \skip 1 \skip 1 \skip 1 \skip 1 \skip 1 \skip 1 \skip 1
   \skip 1 \skip 1
-  [kan gui yu de tou shang go -- u la wo hai yao zhua da yu]
+  [kan gui yu de tou shang go -- u la wo hai yao zhua da yü]
   \skip 1 \skip 1 \skip 1 \skip 1 \skip 1 \skip 1 \skip 1 \skip 1 \skip 1 \skip 1
   \skip 1 \skip 1 \skip 1 \skip 1 \skip 1 \skip 1 \skip 1 \skip 1 \skip 1 \skip 1 
   \skip 1 \skip 1 \skip 1 \skip 1
-  [xin ji de yu]
+  [xing ji de yü]
  }
   
 \new Lyrics 
@@ -68,7 +68,7 @@
   \override LyricText.X-offset = #-1.0
   \override LyricText.Y-offset = #-2.0
 
-  \markup \italic "fish, such a big fish, tiger-patterned shark, taking a plough to catch a big fish"
+  \markup \italic "fish, such a big fish, tiger-patterned shark, taking a plough to hook a big fish"
   \skip 1 \skip 1 \skip 1 \skip 1 \skip 1 \skip 1 \skip 1 \skip 1 \skip 1 \skip 1
   \skip 1 \skip 1 \skip 1 \skip 1 \skip 1 \skip 1 \skip 1 \skip 1 \skip 1 \skip 1
   \skip 1 \skip 1 \skip 1 \skip 1 \skip 1 \skip 1 \skip 1 \skip 1 \skip 1 \skip 1 \skip 1 \skip 1 \skip 1 \skip 1 \skip 1 \skip 1
